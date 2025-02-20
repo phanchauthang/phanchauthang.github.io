@@ -30,17 +30,21 @@ My research focuses on **LLMs' reasoning** abilities, particularly in coding tas
 <!-- - *2025.07*: &nbsp;Graduate from the FPT AI Residency Program! Huge thanks to my mentors, all my brothers and sisters in the program! -->
 - *2025.01*: &nbsp;One papers [CodeMMLU](https://openreview.net/forum?id=CahIEKCu5Q) accepted by ICLR'25!
 - *2025.01*: &nbsp;One papers [AgileCoder](https://arxiv.org/abs/2406.11912) accepted by FORGE'25!
-- *2023.08*: &nbsp;My first A* as Co-first author [VisoBert](https://aclanthology.org/2023.emnlp-main.315/) accepted by EMNLP'23! 
+- *2023.08*: &nbsp;My first A* paper [VisoBert](https://aclanthology.org/2023.emnlp-main.315/) accepted by EMNLP'23! 
 
 # 📝 Publications 
 <sup>* denote equal contribution</sup>
 
 
-[**CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs**](https://openreview.net/forum?id=CahIEKCu5Q)
+[**CodeMMLU: A Multi-Task Benchmark for Assessing Code Understanding Capabilities of CodeLLMs.**](https://openreview.net/forum?id=CahIEKCu5Q)   **ICLR 2025**
 
 Dung Manh Nguyen, **Thang Phan Chau**, Nam Le Hai, Tien-Thong Doan, Nam V. Nguyen, Quang Pham, Nghi D. Q. Bui
 
-[**ViSoBERT: A Pre-Trained Language Model for Vietnamese Social Media Text Processing**](https://aclanthology.org/2023.emnlp-main.315/)
+[**AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology**](https://openreview.net/forum?id=CahIEKCu5Q)   **FORGE 2025**
+
+Minh Huynh Nguyen, **Thang Phan Chau**, Phong X. Nguyen, Nghi D. Q. Bui
+
+[**ViSoBERT: A Pre-Trained Language Model for Vietnamese Social Media Text Processing.**](https://aclanthology.org/2023.emnlp-main.315/)   **EMNLP 2023, Oral**
 
 Nam Nguyen<sup>*</sup>, **Thang Phan Chau<sup>*</sup>**, Duc-Vu Nguyen, Kiet Nguyen
 
