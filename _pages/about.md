@@ -23,7 +23,7 @@ Welcome to my website!
 My name is **Thang Phan Chau**. I am currently an AI Resident in [AI Center @ FPT Software](https://fpt-aicenter.com/) from Mar 2024,
 advised by [Dr. Nghi Bui](https://bdqnghi.github.io/). I earned my bachelor's degree in Data Science from the University of Information Technology, where I was advised by [Dr. Kiet Van Nguyen](https://scholar.google.com.vn/citations?user=v3RSwOkAAAAJ&hl=en) while working on NLP for Vietnamese. During my undergraduate years, I focused on Vietnamese NLP and introduced [VisoBert](https://aclanthology.org/2023.emnlp-main.315/), a compact yet powerful model for processing Vietnamese social media text. 
 
-Currently, my research explores LLMs's **reasoning** and Multi-agent system abilities, particularly in coding tasks. Looking ahead, I aim to enhance LLMs, making them both stronger and more efficient.
+Currently, my research explores LLMs's **reasoning** and Multi-agent system abilities, particularly in coding tasks. Looking ahead, I aim to enhance LLMs, making them both **stronger** and more **efficient**.
 
 
 # 🔥 News
@@ -32,7 +32,7 @@ Currently, my research explores LLMs's **reasoning** and Multi-agent system abil
 - *2025.01*: &nbsp;One papers [AgileCoder](https://arxiv.org/abs/2406.11912) accepted by FORGE'25!
 - *2023.08*: &nbsp;My first A* paper [VisoBert](https://aclanthology.org/2023.emnlp-main.315/) accepted by EMNLP'23! 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 <sup>* denote equal contribution</sup>
 
 
