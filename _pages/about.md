@@ -23,7 +23,7 @@ Welcome to my website!
 My name is **Thang Phan Chau**. I am currently an AI Resident in [AI Center @ FPT Software](https://fpt-aicenter.com/) from Mar 2024,
 advised by [Dr. Nghi Bui](https://bdqnghi.github.io/). I earned my bachelor's degree in Data Science from the University of Information Technology, where I was advised by [Dr. Kiet Van Nguyen](https://scholar.google.com.vn/citations?user=v3RSwOkAAAAJ&hl=en) while working on NLP for Vietnamese. During my undergraduate years, I focused on Vietnamese NLP and introduced [VisoBert](https://aclanthology.org/2023.emnlp-main.315/), a compact yet powerful model for processing Vietnamese social media text. 
 
-Currently, my research explores LLMs's **reasoning** and Multi-agent system abilities, particularly in coding tasks. Looking ahead, I aim to enhance LLMs, making them both **stronger** and more **efficient**.
+Currently, my research explores LLMs's **reasoning** and Multi-agent system abilities.Aim to develop agent-based systems that can process various data types such as text, images, videos, and speeches and perceive surrouding enviroment to perform multiple complicated tasks towards autonomous systems. Looking ahead, I aim to enhance LLMs, making them both **stronger** and more **efficient**.
 
 
 # 🔥 News
