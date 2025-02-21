@@ -40,7 +40,7 @@ Currently, my research explores LLMs's **reasoning** and Multi-agent system abil
 
 Dung Manh Nguyen, **Thang Phan Chau**, Nam Le Hai, Tien-Thong Doan, Nam V. Nguyen, Quang Pham, Nghi D. Q. Bui
 
-[**AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology**](https://openreview.net/forum?id=CahIEKCu5Q)   **FORGE 2025**
+[**AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology**](https://arxiv.org/abs/2406.11912)   **FORGE 2025** [![](https://img.shields.io/github/stars/FSoft-AI4Code/AgileCoder?style=social&label=Code+Stars)](https://github.com/FSoft-AI4Code/AgileCoder)
 
 Minh Huynh Nguyen, **Thang Phan Chau**, Phong X. Nguyen, Nghi D. Q. Bui
 
